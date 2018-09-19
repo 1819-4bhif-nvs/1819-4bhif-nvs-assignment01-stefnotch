@@ -1,4 +1,4 @@
-# 1819_4bhif_nvs_assignment01
+# 1819-4bhif-nvs-assignment01
 ## first project
 
 Clonen Sie das Ausgangsprojekt
